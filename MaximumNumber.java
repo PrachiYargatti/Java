@@ -26,6 +26,8 @@ public class MaximumNumber {
 	    		System.out.println(c + " is maximum");
 	    	}
 	    }
+
+        sc.close();
 	}
 
 }
