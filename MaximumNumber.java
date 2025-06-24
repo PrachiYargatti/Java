@@ -29,3 +29,6 @@ public class MaximumNumber {
 	}
 
 }
+
+//Enter three numbers: 5 0 9
+//9 is maximum
